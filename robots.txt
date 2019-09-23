@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow:
+Sitemap: http://cleia.bio.br/sitemap.xml
